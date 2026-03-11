@@ -42,7 +42,7 @@ const Hero = () => {
                 <div className="lg:col-span-5 grid grid-rows-2 gap-4">
                     <div className="bg-slate-200 rounded-[2.5rem] relative overflow-hidden group">
                         <img
-                            src="https://scontent.fcok10-2.fna.fbcdn.net/v/t39.30808-6/637150243_2079324046198188_5974754302631265509_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=1d70fc&_nc_ohc=4LLr04I5kf0Q7kNvwEmOt5S&_nc_oc=Adn-WZ_WcdfWGMnGmgr2Gn6GBojqqCvo2J0Iawl-SY3C9nn7h_Ddv3M_m-zxIbfrvKOK5_CeFfTiGJv1Rvic1C3e&_nc_zt=23&_nc_ht=scontent.fcok10-2.fna&_nc_gid=Bq92Y3WcXeV3GGILeOhD8Q&_nc_ss=8&oh=00_AfyVX-z2v3dxERX_JbiqLb8-YC0MJJUL6qFvuSuV81WE2w&oe=69ACFA90"
+                            src="/chairman.jpg"
                             className="absolute inset-0 w-full h-full object-cover grayscale hover:grayscale-0 transition-all duration-500"
                             alt="Chairman"
                         />
